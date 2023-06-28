@@ -29,7 +29,7 @@ local schema = {
     required = {"body"},
 }
 
-local plugin_name = "3d-party"
+local plugin_name = "myplugin"
 
 local _M = {
     version = 0.1,
